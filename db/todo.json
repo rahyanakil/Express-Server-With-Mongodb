@@ -1,0 +1,21 @@
+[
+    {
+        "title":"Prisma",
+        "body":"Learning Prisma",
+        "createdAt":"2023-10-01T12:00:00Z"
+    },{
+        "title":"Prisma1",
+        "body":"Learning Prisma1",
+        "createdAt":"2023-11-01T12:00:00Z"
+    },
+    {
+        "title":"Prisma3",
+        "body":"Learning Prisma3",
+        "createdAt":"2023-09-01T12:00:00Z"
+    },
+    {
+        "title":"Prisma4",
+        "body":"Learning Prisma4",
+        "createdAt":"2023-08-01T12:00:00Z"
+    }
+]
